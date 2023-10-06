@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: suomea-image
+server:
+  port: 2333
